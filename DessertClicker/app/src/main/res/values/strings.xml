@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dessert Clicker</string>
+    <string name="dessert_sold">Postres vendidos</string>
+    <string name="total_revenue">Ingresos totales</string>
+    <string name="share">Compartir</string>
+    <string name="share_text">Hice click en %1$d postres para un total de $%2$d #AndroidDessertClicker</string>
+    <string name="sharing_not_available">Compartir no disponible</string>
+</resources>
